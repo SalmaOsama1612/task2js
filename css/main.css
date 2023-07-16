@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;   
+
+}
+
+.container{
+    padding-top: 80px;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+}
+.container h1{
+    color: #ff305d;
+    line-height: 77px;
+    margin:0px 0px 10px;
+    font-weight: 900;
+    font-size: 70px;
+    margin:53.6px 0px;
+    font-family: 'Pacifico', cursive;
+}
+.container button{
+    background-color:#91e0ff;
+    padding: 20px 50px;
+    border-radius: 5%;
+    margin: top 10px;
+    border: 1px ;
+    font-size: large;
+    transition-duration:0.5S;
+}
+.container button:hover{
+    background-color: #ff305d;
+    color: #ffffff;
+}
+.container h2{
+    font-family: 'Playfair Display', serif;
+    margin:35px 0px;
+    font-size: 80;
+    font-weight: 700;
+    padding-top: 25px 0px;
+}
+.container h3{
+    margin: 30px;
+    padding-top: 25px 0px;
+    font-family: 'Raleway', sans-serif; 
+    font-size: 80;
+    font-weight: 700;
+
+}
+
